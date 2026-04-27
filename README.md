@@ -19,7 +19,7 @@ This project allowed me to practice several core Python skills:
 
 ## 📋How to Run
 1. **Clone the repository:**
-
+   https://github.com/Adhieeeh/Python-Unit-Converter.git
 
 2. **Navigate to the folder:**
    cd Python-Unit-Converter
