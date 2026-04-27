@@ -24,7 +24,7 @@ This project allowed me to practice several core Python skills:
 2. **Navigate to the folder:**
    cd Python-Unit-Converter
    
-3.**Run the application:**
+ 3.**Run the application:**
    python main.py
 
    
@@ -34,6 +34,8 @@ This project allowed me to practice several core Python skills:
 3. Kilograms to Pounds
 
 Choose a conversion (1, 2, or 3): 2
+
 Enter distance in Kilometers: 10
+
 10 km is equal to 6.21 miles
   
